@@ -14,7 +14,7 @@
   ],
   "dependencies": {
     "es6-promise": "3.0.2",
-    "mongodb-core": "bullmo/mongodb-core#2.0-additional-logging",
+    "mongodb-core": "bullmo/mongodb-core#535b31c6eee293ec3564e718c187e9410ab5099e",
     "readable-stream": "1.0.31"
   },
   "devDependencies": {
